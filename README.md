@@ -11,6 +11,7 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
@@ -20,4 +21,12 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

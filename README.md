@@ -27,9 +27,15 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0500-keyboard-row) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->

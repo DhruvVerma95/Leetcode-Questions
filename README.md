@@ -36,6 +36,7 @@ Solved Leetcode Questions!
 | [0013-roman-to-integer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0415-add-strings) |
+| [0482-license-key-formatting](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0551-student-attendance-record-i) |

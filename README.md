@@ -8,6 +8,7 @@ Solved Leetcode Questions!
 | ------- |
 | [0001-two-sum](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0500-keyboard-row](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0500-keyboard-row) |
+| [0965-unique-email-addresses](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0965-unique-email-addresses) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@ Solved Leetcode Questions!
 | [0013-roman-to-integer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0500-keyboard-row](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0500-keyboard-row) |
+| [0965-unique-email-addresses](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0965-unique-email-addresses) |
 ## Linked List
 |  |
 | ------- |
@@ -41,6 +43,7 @@ Solved Leetcode Questions!
 | [0520-detect-capital](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0551-student-attendance-record-i) |
+| [0965-unique-email-addresses](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0965-unique-email-addresses) |
 ## Simulation
 |  |
 | ------- |

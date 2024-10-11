@@ -1,20 +1,20 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        int open = 0;
-        int close = 0;
+        int openB = 0;
+        int closeB = 0;
         
         for (char c : s.toCharArray()) {
             if (c == '(') {
-                open++;
+                openB++;
             } else if (c == ')') {
-                if (open > 0) {
-                    open--;
+                if (openB > 0) {
+                    openB--;
                 } else {
-                    close++;
+                    closeB++;
                 }
             }
         }
         
-        return open + close;
+        return openB + closeB;
     }
 }

@@ -14,6 +14,7 @@ Solved Leetcode Questions!
 | ------- |
 | [0001-two-sum](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0389-find-the-difference](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0500-keyboard-row) |
@@ -21,6 +22,7 @@ Solved Leetcode Questions!
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |

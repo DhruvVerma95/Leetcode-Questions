@@ -33,6 +33,7 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0412-fizz-buzz](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0415-add-strings) |
 ## String
@@ -65,6 +66,7 @@ Solved Leetcode Questions!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0389-find-the-difference](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |

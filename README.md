@@ -39,6 +39,7 @@ Solved Leetcode Questions!
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0412-fizz-buzz) |

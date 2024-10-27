@@ -14,6 +14,7 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
@@ -34,6 +35,7 @@ Solved Leetcode Questions!
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0412-fizz-buzz](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0412-fizz-buzz) |
@@ -42,6 +44,7 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0412-fizz-buzz) |

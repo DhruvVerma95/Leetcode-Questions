@@ -44,6 +44,7 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0389-find-the-difference) |

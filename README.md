@@ -7,6 +7,7 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0500-keyboard-row](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0575-distribute-candies) |
 | [0965-unique-email-addresses](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0965-unique-email-addresses) |
@@ -19,6 +20,7 @@ Solved Leetcode Questions!
 | [0013-roman-to-integer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0575-distribute-candies) |
@@ -79,10 +81,19 @@ Solved Leetcode Questions!
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Binary Search
 |  |
 | ------- |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

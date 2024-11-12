@@ -8,6 +8,7 @@ Solved Leetcode Questions!
 | ------- |
 | [0001-two-sum](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0575-distribute-candies) |
 | [0965-unique-email-addresses](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0965-unique-email-addresses) |
@@ -34,6 +35,7 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0541-reverse-string-ii) |
 ## Math
 |  |

@@ -10,6 +10,7 @@ Solved Leetcode Questions!
 | [0500-keyboard-row](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0575-distribute-candies) |
 | [0965-unique-email-addresses](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0965-unique-email-addresses) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +80,9 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
+## Binary Search
+|  |
+| ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 <!---LeetCode Topics End-->

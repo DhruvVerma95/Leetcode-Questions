@@ -9,6 +9,7 @@ Solved Leetcode Questions!
 | [0001-two-sum](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0575-distribute-candies) |
@@ -23,6 +24,7 @@ Solved Leetcode Questions!
 | [0138-copy-list-with-random-pointer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0500-keyboard-row) |
@@ -38,6 +40,7 @@ Solved Leetcode Questions!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0541-reverse-string-ii) |
 ## Math
 |  |
@@ -87,11 +90,13 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Divide and Conquer
 |  |

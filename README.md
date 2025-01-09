@@ -18,6 +18,7 @@ Solved Leetcode Questions!
 | [0837-most-common-word](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0837-most-common-word) |
 | [0965-unique-email-addresses](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0965-unique-email-addresses) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Solved Leetcode Questions!
 | [0837-most-common-word](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0837-most-common-word) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0965-unique-email-addresses) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -116,4 +118,8 @@ Solved Leetcode Questions!
 | ------- |
 | [0169-majority-element](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0837-most-common-word](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0837-most-common-word) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->

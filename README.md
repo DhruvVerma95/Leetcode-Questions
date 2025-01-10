@@ -16,6 +16,7 @@ Solved Leetcode Questions!
 | [0575-distribute-candies](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0697-degree-of-an-array) |
 | [0837-most-common-word](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0837-most-common-word) |
+| [0952-word-subsets](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0965-unique-email-addresses) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -36,6 +37,7 @@ Solved Leetcode Questions!
 | [0575-distribute-candies](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0697-degree-of-an-array) |
 | [0837-most-common-word](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0837-most-common-word) |
+| [0952-word-subsets](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0965-unique-email-addresses) |
 ## Linked List
 |  |
@@ -75,6 +77,7 @@ Solved Leetcode Questions!
 | [0551-student-attendance-record-i](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0657-robot-return-to-origin) |
 | [0837-most-common-word](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0837-most-common-word) |
+| [0952-word-subsets](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0965-unique-email-addresses) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2292-counting-words-with-a-given-prefix) |

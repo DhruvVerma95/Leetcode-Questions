@@ -39,6 +39,7 @@ Solved Leetcode Questions!
 | [0837-most-common-word](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0837-most-common-word) |
 | [0952-word-subsets](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0965-unique-email-addresses) |
+| [1502-construct-k-palindrome-strings](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/1502-construct-k-palindrome-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Solved Leetcode Questions!
 | [0952-word-subsets](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0965-unique-email-addresses) |
+| [1502-construct-k-palindrome-strings](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Simulation
 |  |
@@ -95,6 +97,7 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1502-construct-k-palindrome-strings](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/1502-construct-k-palindrome-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -121,6 +124,7 @@ Solved Leetcode Questions!
 | ------- |
 | [0169-majority-element](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0837-most-common-word](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0837-most-common-word) |
+| [1502-construct-k-palindrome-strings](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/1502-construct-k-palindrome-strings) |
 ## String Matching
 |  |
 | ------- |

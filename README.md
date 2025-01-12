@@ -138,6 +138,7 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0176-second-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 ## Backtracking
 |  |

@@ -82,6 +82,7 @@ Solved Leetcode Questions!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0965-unique-email-addresses) |
 | [1502-construct-k-palindrome-strings](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Simulation
 |  |
@@ -93,11 +94,13 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Bit Manipulation
 |  |
 | ------- |

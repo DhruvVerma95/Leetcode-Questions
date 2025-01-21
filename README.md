@@ -16,6 +16,7 @@ Solved Leetcode Questions!
 | [0575-distribute-candies](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0697-degree-of-an-array) |
 | [0837-most-common-word](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0837-most-common-word) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0952-word-subsets](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0965-unique-email-addresses) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -122,6 +123,7 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Divide and Conquer
 |  |

@@ -16,6 +16,7 @@ Solved Leetcode Questions!
 | [0575-distribute-candies](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0697-degree-of-an-array) |
 | [0837-most-common-word](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0837-most-common-word) |
+| [0875-longest-mountain-in-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0952-word-subsets](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0965-unique-email-addresses) |
@@ -56,6 +57,7 @@ Solved Leetcode Questions!
 | [0283-move-zeroes](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0541-reverse-string-ii) |
+| [0875-longest-mountain-in-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0875-longest-mountain-in-array) |
 ## Math
 |  |
 | ------- |
@@ -153,4 +155,12 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0875-longest-mountain-in-array) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->

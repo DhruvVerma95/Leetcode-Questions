@@ -151,6 +151,7 @@ Solved Leetcode Questions!
 | [0196-delete-duplicate-emails](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0607-sales-person](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0607-sales-person) |
+| [1179-game-play-analysis-i](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/1179-game-play-analysis-i) |
 ## Backtracking
 |  |
 | ------- |

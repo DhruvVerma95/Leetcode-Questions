@@ -112,6 +112,7 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0029-divide-two-integers) |
+| [0338-counting-bits](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
@@ -160,6 +161,7 @@ Solved Leetcode Questions!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0338-counting-bits) |
 | [0875-longest-mountain-in-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0875-longest-mountain-in-array) |
 ## Enumeration
 |  |

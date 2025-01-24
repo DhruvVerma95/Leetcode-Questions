@@ -64,6 +64,7 @@ Solved Leetcode Questions!
 | [0012-integer-to-roman](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0415-add-strings) |
 ## String
@@ -112,6 +113,7 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -168,4 +170,8 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0875-longest-mountain-in-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

@@ -48,6 +48,7 @@ Solved Leetcode Questions!
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
@@ -133,6 +134,7 @@ Solved Leetcode Questions!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -202,4 +204,12 @@ Solved Leetcode Questions!
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

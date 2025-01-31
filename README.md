@@ -21,6 +21,7 @@ Solved Leetcode Questions!
 | [0882-peak-index-in-a-mountain-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0952-word-subsets](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0965-unique-email-addresses) |
+| [1755-defuse-the-bomb](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/1755-defuse-the-bomb) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -223,4 +224,8 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0463-island-perimeter) |
+## Sliding Window
+|  |
+| ------- |
+| [1755-defuse-the-bomb](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->

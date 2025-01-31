@@ -184,6 +184,7 @@ Solved Leetcode Questions!
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -192,6 +193,7 @@ Solved Leetcode Questions!
 | [0226-invert-binary-tree](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0463-island-perimeter) |
+| [0617-merge-two-binary-trees](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -200,6 +202,7 @@ Solved Leetcode Questions!
 | [0226-invert-binary-tree](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0463-island-perimeter) |
+| [0617-merge-two-binary-trees](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -207,6 +210,7 @@ Solved Leetcode Questions!
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0617-merge-two-binary-trees) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

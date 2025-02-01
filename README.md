@@ -25,6 +25,7 @@ Solved Leetcode Questions!
 | [2179-most-beautiful-item-for-each-query](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3429-special-array-i](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |

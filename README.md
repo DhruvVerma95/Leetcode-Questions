@@ -7,6 +7,7 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -57,6 +58,7 @@ Solved Leetcode Questions!
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -105,6 +107,7 @@ Solved Leetcode Questions!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
@@ -169,6 +172,7 @@ Solved Leetcode Questions!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0338-counting-bits) |
 | [0875-longest-mountain-in-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0875-longest-mountain-in-array) |
 ## Enumeration
@@ -229,4 +233,8 @@ Solved Leetcode Questions!
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/1755-defuse-the-bomb) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ Solved Leetcode Questions!
 | [0001-two-sum](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -60,6 +61,7 @@ Solved Leetcode Questions!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0541-reverse-string-ii) |
@@ -70,6 +72,7 @@ Solved Leetcode Questions!
 | [0012-integer-to-roman](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0415-add-strings) |

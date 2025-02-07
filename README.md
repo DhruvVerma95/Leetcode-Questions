@@ -77,6 +77,7 @@ Solved Leetcode Questions!
 | [0231-power-of-two](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0415-add-strings) |
+| [0492-construct-the-rectangle](https://github.com/DhruvVerma95/Leetcode-Questions/tree/master/0492-construct-the-rectangle) |
 ## String
 |  |
 | ------- |
